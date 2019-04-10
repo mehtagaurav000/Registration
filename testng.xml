@@ -1,0 +1,8 @@
+<suite name="test">
+<test name="registration">
+<classes>
+		<class name="Hotel.Registration.RegistrationTest"/>
+</classes>
+</test>
+</suite>
+
