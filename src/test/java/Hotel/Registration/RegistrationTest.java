@@ -21,6 +21,7 @@ public class RegistrationTest {
 		GenericMethods.co().driver.get("http://www.hotelogix.com/");
 		System.out.println("My name is Himani");
 		System.out.println("My name is Himani1");
+		System.out.println("Hey AGAIN");
 		}
 		catch(Exception e)
 		{
