@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="test" duration-ms="25541" started-at="2019-04-07T08:16:51Z" finished-at="2019-04-07T08:17:16Z">
+  <suite name="test" duration-ms="17733" started-at="2019-04-15T13:21:16Z" finished-at="2019-04-15T13:21:34Z">
     <groups>
     </groups>
-    <test name="registration" duration-ms="25541" started-at="2019-04-07T08:16:51Z" finished-at="2019-04-07T08:17:16Z">
+    <test name="registration" duration-ms="17733" started-at="2019-04-15T13:21:16Z" finished-at="2019-04-15T13:21:34Z">
       <class name="Hotel.Registration.RegistrationTest">
-        <test-method status="PASS" signature="launchingHotelogixDotCom()[pri:0, instance:Hotel.Registration.RegistrationTest@20e2cbe0]" name="launchingHotelogixDotCom" duration-ms="25516" started-at="2019-04-07T13:46:51Z" finished-at="2019-04-07T13:47:16Z">
+        <test-method status="PASS" signature="fn_launchingHotelogixDotCom()[pri:0, instance:Hotel.Registration.RegistrationTest@18be83e4]" name="fn_launchingHotelogixDotCom" duration-ms="17720" started-at="2019-04-15T18:51:16Z" finished-at="2019-04-15T18:51:34Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchingHotelogixDotCom -->
+        </test-method> <!-- fn_launchingHotelogixDotCom -->
       </class> <!-- Hotel.Registration.RegistrationTest -->
     </test> <!-- registration -->
   </suite> <!-- test -->

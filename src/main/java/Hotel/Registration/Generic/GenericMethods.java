@@ -35,7 +35,7 @@ public class GenericMethods {
 		{
 		if(browserName.equalsIgnoreCase("FF"))
 		{
-		System.setProperty("webdriver.gecko.driver", "E:\\HR New(G)\\Registration\\Drivers\\geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", "D:\\Himani\\Registration\\Drivers\\geckodriver.exe");
 		DesiredCapabilities dc=DesiredCapabilities.firefox();
 		dc.setCapability("marionette", true);
 		
