@@ -19,6 +19,7 @@ public class RegistrationTest {
 		GenericMethods.co().fn_launchBrowser("FF");
 		GenericMethods.co().driver.manage().timeouts().implicitlyWait(120, TimeUnit.SECONDS);
 		GenericMethods.co().driver.get("http://www.hotelogix.com/");
+		System.out.println("My name is Himani");
 		}
 		catch(Exception e)
 		{
